@@ -44,3 +44,10 @@ Memcached缓存技术研究
 <pre>
 Memcached集群中的一致性Hash
 </pre>
+
+![](https://i.imgur.com/UkogFuH.png)
+
+<pre>
+Memcached集群部署方案
+</pre>
+
